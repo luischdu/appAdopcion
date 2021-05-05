@@ -24,7 +24,7 @@ Ninguno
 
 ### 💻 Desktop
 
-<img src='https://github.com/luischdu/appAdopcion/blob/main/app/img/view-pc.png' width=20%>
+<img src='https://github.com/luischdu/appAdopcion/blob/main/app/img/view-pc.png' width=50%>
 
 ### 📱 Mobile
 
