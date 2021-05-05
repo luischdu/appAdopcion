@@ -19,29 +19,16 @@ Un camino de soledad no debe ser, rodeate de un amigo incondicional; Adoptar pue
 
 Ninguno
 
-```shell
-procesing
-```
-
-## 🔥 Instalación
-
-```shell
-procesing
-```
 
 ## 🔍 Vistas 
 
 ### 💻 Desktop
 
-<imagen aquí>
+<img src='https://github.com/luischdu/appAdopcion/blob/main/app/img/view-pc.png' width=20%>
 
 ### 📱 Mobile
 
-<imagen aquí>
-
-## 📌 Stack
-
-<escribe aquí>
+<img src='https://github.com/luischdu/appAdopcion/blob/main/app/img/view-phone.png' width=20%>
 
 ## 🌟 Autor
 
