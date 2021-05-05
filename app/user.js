@@ -17,9 +17,9 @@ function setUpUser() {
             lastname: document.querySelector('#lastname').value,
             email: document.querySelector('#email').value,
         }
-        document.querySelector('#name').value = ""
-        document.querySelector('#lastname').value = ""
-        document.querySelector('#email').value = ""
+        document.querySelector('#name').value 
+        document.querySelector('#lastname').value 
+        document.querySelector('#email').value 
         localStorage.setItem('user', JSON.stringify(user))
         document.querySelector('.newname').innerHTML = `${user.name} ${user.lastname}`
         e.preventDefault();
