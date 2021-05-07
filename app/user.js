@@ -22,4 +22,5 @@ function setUpUser() {
         e.preventDefault();
     })
 }
+
 setUpUser()
