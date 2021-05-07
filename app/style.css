@@ -180,11 +180,18 @@ a {
 
 }
 
-img{
+img {
     margin-top: 2%;
     margin-left: 1%;
 }
 
+input {
+    border-radius: 15px;
+    border: none;
+    padding: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
 
 /* Perfil */
 .contenedor-perfil {
@@ -203,12 +210,11 @@ img{
     justify-content: center;
     align-items: center;
     padding: 16px;
-
+    border: none;
     position: static;
     width: 327px;
     height: 48px;
-    left: 0px;
-    top: 284px;
+
 
     /* Black */
 
@@ -222,7 +228,8 @@ img{
     order: 3;
     align-self: stretch;
     flex-grow: 0;
-    margin: 16px 0px;
+    margin: 1%;
+    margin-bottom: 3%;
 }
 
 
@@ -237,7 +244,7 @@ img{
     }
 
     #scene1 img,
-    #scene2 img{
+    #scene2 img {
         margin: 2% auto;
         width: 40%;
     }
